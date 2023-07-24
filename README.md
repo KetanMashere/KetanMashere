@@ -1,3 +1,4 @@
+![logo](https://github.com/KetanMashere/KetanMashere/blob/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ketan Mashere</h1>
 <h3 align="center">A passionate and ambitious data scientist</h3>
 
