@@ -6,13 +6,11 @@
 
 - 👨‍💻Currently, I am employed at Nielsen as a Schedule Analyst
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
 - 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
 - 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
+- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Artificial intellegence and Deep learning**
 
 - 📫 You can reach me on my email id **ketanmashere@gmail.com**
 
